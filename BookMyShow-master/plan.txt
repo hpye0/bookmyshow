@@ -1,0 +1,18 @@
+book my show plan
+/carousel
+=>need a reusable carousel
+=>HERO carousel
+=>COMMON carousel
+=>CAST carousel
+
+/no. of pages
+=>home
+=>movie
+=>category
+=>authentication
+=>payment
+
+/layouts
+/routes
+/pages
+/components
